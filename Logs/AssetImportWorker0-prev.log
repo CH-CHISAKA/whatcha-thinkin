@@ -1,0 +1,807 @@
+Unity Editor version:    6000.0.45f1 (d91bd3d4e081)
+Branch:                  6000.0/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.7.6 (Build 23H626)
+Darwin version:          23.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.0.45f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mac/Desktop/Whatcha Thinkin’/Whatcha Thinkin
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53365
+-job-worker-count
+1
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: /Users/mac/Desktop/Whatcha Thinkin’/Whatcha Thinkin
+/Users/mac/Desktop/Whatcha Thinkin’/Whatcha Thinkin
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [140704380408576]  Target information:
+
+Player connection [140704380408576]  * "[IP] 10.51.20.106 [Port] 0 [Flags] 2 [Guid] 4103391029 [EditorId] 4103391029 [Version] 1048832 [Id] OSXEditor(0,Macs-MacBook-Air-3.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [140704380408576] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [140704380408576] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 1
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.45f1 (d91bd3d4e081)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.0.45f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mac/Desktop/Whatcha Thinkin’/Whatcha Thinkin/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
+Metal devices available: 1
+0: Intel(R) UHD Graphics 617 (low power)
+Using device Intel(R) UHD Graphics 617 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 617
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.0.45f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.0.45f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.0.45f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56549
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.45f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.45f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.45f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.45f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.45f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.45f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.024138 seconds.
+- Loaded All Assemblies, in  1.545 seconds
+Native extension for LinuxStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 302 ms
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.635 seconds
+Domain Reload Profiling: 5180ms
+	BeginReloadAssembly (456ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (156ms)
+	RebuildNativeTypeToScriptingClass (56ms)
+	initialDomainReloadingComplete (172ms)
+	LoadAllAssembliesAndSetupDomain (702ms)
+		LoadAssemblies (470ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (679ms)
+			TypeCache.Refresh (674ms)
+				TypeCache.ScanAssembly (629ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (3638ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3436ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1036ms)
+			SetLoadedEditorAssemblies (23ms)
+			BeforeProcessingInitializeOnLoad (409ms)
+			ProcessInitializeOnLoadAttributes (1637ms)
+			ProcessInitializeOnLoadMethodAttributes (331ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  4.557 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.696 seconds
+Domain Reload Profiling: 9255ms
+	BeginReloadAssembly (837ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (42ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (241ms)
+	RebuildCommonClasses (197ms)
+	RebuildNativeTypeToScriptingClass (55ms)
+	initialDomainReloadingComplete (145ms)
+	LoadAllAssembliesAndSetupDomain (3323ms)
+		LoadAssemblies (1967ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1707ms)
+			TypeCache.Refresh (1357ms)
+				TypeCache.ScanAssembly (1244ms)
+			BuildScriptInfoCaches (249ms)
+			ResolveRequiredComponents (72ms)
+	FinalizeReload (4697ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3680ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (284ms)
+			SetLoadedEditorAssemblies (36ms)
+			BeforeProcessingInitializeOnLoad (733ms)
+			ProcessInitializeOnLoadAttributes (2358ms)
+			ProcessInitializeOnLoadMethodAttributes (266ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launching external process: /Applications/Unity/Hub/Editor/6000.0.45f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.21 seconds
+Refreshing native plugins compatible for Editor in 2.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 214 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5993 unused Assets / (3.5 MB). Loaded Objects now: 6721.
+Memory consumption went from 241.2 MB to 237.7 MB.
+Total: 113.433035 ms (FindLiveObjects: 1.714738 ms CreateObjectMapping: 2.905425 ms MarkObjects: 26.021837 ms  DeleteObjects: 82.786505 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 175048.087775 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/Food.png
+  artifactKey: Guid(33bae7618e63f455da4d61465c578c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/Food.png using Guid(33bae7618e63f455da4d61465c578c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '19e333981cdced5d55af7918e3ec0c02') in 0.573330105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/Pop Culture.png
+  artifactKey: Guid(9933a4bdcb0d443f9ac28c08c31fabb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/Pop Culture.png using Guid(9933a4bdcb0d443f9ac28c08c31fabb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'fdfe1280f31b620b724578cee13d5c05') in 0.120973544 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000929 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/Mystery Mix.png
+  artifactKey: Guid(b9b31d4d88e6645dba40b72ed9789647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/Mystery Mix.png using Guid(b9b31d4d88e6645dba40b72ed9789647) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'ae4a5f2f8a269515f800c5a857f4a42d') in 0.032470223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/Animal Button.png
+  artifactKey: Guid(e5929e5ba871a4362912801a49652e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/Animal Button.png using Guid(e5929e5ba871a4362912801a49652e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '873cf2b4c6aa7399a4278a3167e07d7d') in 0.029937399 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.331322 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/Animal Button.png
+  artifactKey: Guid(e5929e5ba871a4362912801a49652e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/Animal Button.png using Guid(e5929e5ba871a4362912801a49652e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'baa053c8dd6558bd12054ecbfc49c060') in 0.031841247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.421502 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/Mystery Mix.png
+  artifactKey: Guid(b9b31d4d88e6645dba40b72ed9789647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/Mystery Mix.png using Guid(b9b31d4d88e6645dba40b72ed9789647) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'b676a512252e8173463f318805d8192f') in 0.039016217 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.363290 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/Pop Culture.png
+  artifactKey: Guid(9933a4bdcb0d443f9ac28c08c31fabb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/Pop Culture.png using Guid(9933a4bdcb0d443f9ac28c08c31fabb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'a7b6b2400aacfd9540ca7cc76167db94') in 0.030000766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1472.293635 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3402e53762522fbd265d3d700c5484cd') in 3.544684518 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c927fa7d5e3ba8f2492f07eb16b054ea') in 0.041482607 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/GameElements/GameFonts/Marhey/Marhey-VariableFont_wght SDF.asset
+  artifactKey: Guid(25c8e0fc17ecb498c808ef63ec09c018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameFonts/Marhey/Marhey-VariableFont_wght SDF.asset using Guid(25c8e0fc17ecb498c808ef63ec09c018) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73a11a0fc322fa8b2c04a7783877cca7') in 0.073684311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/GameElements/GameFonts/Orbitron/Orbitron-VariableFont_wght SDF.asset
+  artifactKey: Guid(32acd54d0dc004c6e870d3074053c406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameFonts/Orbitron/Orbitron-VariableFont_wght SDF.asset using Guid(32acd54d0dc004c6e870d3074053c406) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee0c9bba63595dcd9dba79c8c1868182') in 0.039770134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+  artifactKey: Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset using Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2eedabbbacf2fd007440df4b7da748a5') in 0.052957637 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+  artifactKey: Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset using Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '89c8bb14506444c1073271baaf55827d') in 0.047183201 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/GameElements/GameFonts/Fredoka/Fredoka-VariableFont_wdth,wght SDF.asset
+  artifactKey: Guid(898638751ba834d028a2ea9edb61e2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameFonts/Fredoka/Fredoka-VariableFont_wdth,wght SDF.asset using Guid(898638751ba834d028a2ea9edb61e2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0c445f25948cc1b8f75e59e455a8959') in 0.039671038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 610.803814 seconds.
+  path: Assets/Scenes/MainMenuScene.unity
+  artifactKey: Guid(e8014f07e35194df9886fa3c0d650c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenuScene.unity using Guid(e8014f07e35194df9886fa3c0d650c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1aa8fc3ae2a79a5a3de3804302b804fb') in 0.005523449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.854017 seconds.
+  path: Assets/Scenes/MainMenuScene.unity
+  artifactKey: Guid(e8014f07e35194df9886fa3c0d650c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenuScene.unity using Guid(e8014f07e35194df9886fa3c0d650c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '97be5b3680d561c418bfd3cf4328dda5') in 0.001041703 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.229722 seconds.
+  path: Assets/Scripts/ManMenuScripts
+  artifactKey: Guid(1be58d953d55e4baf85fcb3283209e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ManMenuScripts using Guid(1be58d953d55e4baf85fcb3283209e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'beeb43537ae841285c983156ba8ec47c') in 0.009507362 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 592.845812 seconds.
+  path: Assets/GameElements/GameFonts/Marhey/Marhey-VariableFont_wght SDF.asset
+  artifactKey: Guid(25c8e0fc17ecb498c808ef63ec09c018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameFonts/Marhey/Marhey-VariableFont_wght SDF.asset using Guid(25c8e0fc17ecb498c808ef63ec09c018) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8256ca28b34f9b96cf8b5b5c3d7cbfad') in 0.427767543 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '282154035b9fb5935e9a0d9df2657800') in 0.094225679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 213.282998 seconds.
+  path: Assets/Scenes/SplashScene.unity
+  artifactKey: Guid(28dd170fd5bf44afa92cae588b1e23d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SplashScene.unity using Guid(28dd170fd5bf44afa92cae588b1e23d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e47bede5887c9479748faaaa2ec661aa') in 0.007929908 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1785.215675 seconds.
+  path: Assets/Scripts/ManMenuScripts/New Folder
+  artifactKey: Guid(240a253a53e954924bdeae7285ddde49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ManMenuScripts/New Folder using Guid(240a253a53e954924bdeae7285ddde49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2b8b7583937888b0aac91e698f8db0b') in 0.034077213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.147864 seconds.
+  path: Assets/Scripts/ManMenuScripts/GameButtonScripts
+  artifactKey: Guid(240a253a53e954924bdeae7285ddde49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ManMenuScripts/GameButtonScripts using Guid(240a253a53e954924bdeae7285ddde49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b075f73643f8d179f08dbafeaa70ccdc') in 0.004874435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5983 unused Assets / (3.2 MB). Loaded Objects now: 6916.
+Memory consumption went from 219.5 MB to 216.3 MB.
+Total: 519.746617 ms (FindLiveObjects: 4.827264 ms CreateObjectMapping: 2.299710 ms MarkObjects: 505.997932 ms  DeleteObjects: 6.618372 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 14.057157 seconds.
+  path: Assets/Scripts/ManMenuScripts/GameButtonScripts/UIButtonFeedback.cs
+  artifactKey: Guid(b1a88da16433b43ce94a39899f2d5af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ManMenuScripts/GameButtonScripts/UIButtonFeedback.cs using Guid(b1a88da16433b43ce94a39899f2d5af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac8ff0b059994e3ce0b858fa0efc97c9') in 0.004433045 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.776 seconds
+Refreshing native plugins compatible for Editor in 2.47 ms, found 2 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  6.340 seconds
+Domain Reload Profiling: 13129ms
+	BeginReloadAssembly (2747ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (227ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (664ms)
+	RebuildCommonClasses (469ms)
+	RebuildNativeTypeToScriptingClass (149ms)
+	initialDomainReloadingComplete (195ms)
+	LoadAllAssembliesAndSetupDomain (3223ms)
+		LoadAssemblies (3587ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1284ms)
+			TypeCache.Refresh (130ms)
+				TypeCache.ScanAssembly (10ms)
+			BuildScriptInfoCaches (1045ms)
+			ResolveRequiredComponents (72ms)
+	FinalizeReload (6346ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (5092ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (265ms)
+			SetLoadedEditorAssemblies (78ms)
+			BeforeProcessingInitializeOnLoad (546ms)
+			ProcessInitializeOnLoadAttributes (3640ms)
+			ProcessInitializeOnLoadMethodAttributes (554ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (3ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (95ms)
+Refreshing native plugins compatible for Editor in 4.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5990 unused Assets / (5.3 MB). Loaded Objects now: 6810.
+Memory consumption went from 239.3 MB to 234.1 MB.
+Total: 78.243662 ms (FindLiveObjects: 5.530023 ms CreateObjectMapping: 7.329176 ms MarkObjects: 31.630919 ms  DeleteObjects: 33.746518 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 57.566807 seconds.
+  path: Assets/Scripts/ManMenuScripts/GameButtonScripts/UIButtonFeedback.cs
+  artifactKey: Guid(b1a88da16433b43ce94a39899f2d5af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ManMenuScripts/GameButtonScripts/UIButtonFeedback.cs using Guid(b1a88da16433b43ce94a39899f2d5af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '290f30e591a98f9bea780edbef3ef55c') in 0.012429318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 367.554640 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/ai1.png
+  artifactKey: Guid(f89e4237bcf704e8db210e51cd8ee998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/ai1.png using Guid(f89e4237bcf704e8db210e51cd8ee998) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '9d6395d1576ddfe632bfd3b5b742a70e') in 2.329295448 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.971951 seconds.
+  path: Assets/GameElements/GameImages/MainMenuScreenAssets/ai1.png
+  artifactKey: Guid(f89e4237bcf704e8db210e51cd8ee998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/MainMenuScreenAssets/ai1.png using Guid(f89e4237bcf704e8db210e51cd8ee998) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '0a2959e083b74c0f9dde40226328f873') in 0.428093741 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 965.078203 seconds.
+  path: Assets/GameElements/GameFonts/Marhey/Marhey-VariableFont_wght SDF.asset
+  artifactKey: Guid(25c8e0fc17ecb498c808ef63ec09c018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameFonts/Marhey/Marhey-VariableFont_wght SDF.asset using Guid(25c8e0fc17ecb498c808ef63ec09c018) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a536d83773ccd64c7d4efc2ce88e78c') in 4.609401675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.270646 seconds.
+  path: Assets/Scenes/SplashScene.unity
+  artifactKey: Guid(28dd170fd5bf44afa92cae588b1e23d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SplashScene.unity using Guid(28dd170fd5bf44afa92cae588b1e23d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '05defe934d87fc955484c6c2a0af6365') in 0.0175724 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  5.150 seconds
+Refreshing native plugins compatible for Editor in 2.11 ms, found 2 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.979 seconds
+Domain Reload Profiling: 11168ms
+	BeginReloadAssembly (1627ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (118ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (3ms)
+		CreateAndSetChildDomain (613ms)
+	RebuildCommonClasses (305ms)
+	RebuildNativeTypeToScriptingClass (84ms)
+	initialDomainReloadingComplete (168ms)
+	LoadAllAssembliesAndSetupDomain (2987ms)
+		LoadAssemblies (2329ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1305ms)
+			TypeCache.Refresh (44ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1184ms)
+			ResolveRequiredComponents (54ms)
+	FinalizeReload (5996ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4818ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (557ms)
+			SetLoadedEditorAssemblies (45ms)
+			BeforeProcessingInitializeOnLoad (490ms)
+			ProcessInitializeOnLoadAttributes (3287ms)
+			ProcessInitializeOnLoadMethodAttributes (422ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (63ms)
+Refreshing native plugins compatible for Editor in 2.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5990 unused Assets / (5.4 MB). Loaded Objects now: 6834.
+Memory consumption went from 247.6 MB to 242.1 MB.
+Total: 59.552667 ms (FindLiveObjects: 1.176912 ms CreateObjectMapping: 5.898514 ms MarkObjects: 37.264419 ms  DeleteObjects: 15.210391 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 128.385270 seconds.
+  path: Assets/GameElements/GameImages/SplashScreenAssets/Game Grid Pane 1.png
+  artifactKey: Guid(cdb2863302b784a688935991037b4769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/SplashScreenAssets/Game Grid Pane 1.png using Guid(cdb2863302b784a688935991037b4769) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: 'bc3ea4bb2156ce36fec766a60e744ef0') in 0.441526458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/GameElements/GameImages/SplashScreenAssets/Game GP 2.png
+  artifactKey: Guid(8395dbb7874ee4c959ed0b13b1270637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/SplashScreenAssets/Game GP 2.png using Guid(8395dbb7874ee4c959ed0b13b1270637) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '96ef4e4e059b804b6db3a39a13c72f7d') in 0.160109222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/GameElements/GameImages/SplashScreenAssets/Whatcha Thinkin’_.png
+  artifactKey: Guid(23b6479c0be7b4630abba001fa1b2399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameElements/GameImages/SplashScreenAssets/Whatcha Thinkin’_.png using Guid(23b6479c0be7b4630abba001fa1b2399) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+ -> (artifact id: '37942e3a7df800f3807a34703e08adfe') in 0.08855599 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.674144 seconds.
+  path: Assets/Scenes/MainMenuScene.unity
+  artifactKey: Guid(e8014f07e35194df9886fa3c0d650c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenuScene.unity using Guid(e8014f07e35194df9886fa3c0d650c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d3239b7a053e291b64f18c4c114eab2') in 0.002229038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5984 unused Assets / (4.8 MB). Loaded Objects now: 6838.
+Memory consumption went from 239.5 MB to 234.7 MB.
+Total: 29.608026 ms (FindLiveObjects: 1.502858 ms CreateObjectMapping: 2.223743 ms MarkObjects: 19.681568 ms  DeleteObjects: 6.196682 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.624 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  6.766 seconds
+Domain Reload Profiling: 10397ms
+	BeginReloadAssembly (968ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (31ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (5ms)
+		CreateAndSetChildDomain (423ms)
+	RebuildCommonClasses (153ms)
+	RebuildNativeTypeToScriptingClass (54ms)
+	initialDomainReloadingComplete (246ms)
+	LoadAllAssembliesAndSetupDomain (2208ms)
+		LoadAssemblies (1781ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (810ms)
+			TypeCache.Refresh (64ms)
+				TypeCache.ScanAssembly (4ms)
+			BuildScriptInfoCaches (674ms)
+			ResolveRequiredComponents (57ms)
+	FinalizeReload (6767ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4219ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (432ms)
+			SetLoadedEditorAssemblies (78ms)
+			BeforeProcessingInitializeOnLoad (870ms)
+			ProcessInitializeOnLoadAttributes (2572ms)
+			ProcessInitializeOnLoadMethodAttributes (264ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (60ms)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5991 unused Assets / (6.1 MB). Loaded Objects now: 6839.
+Memory consumption went from 248.3 MB to 242.3 MB.
+Total: 45.889434 ms (FindLiveObjects: 1.309745 ms CreateObjectMapping: 3.804819 ms MarkObjects: 28.605167 ms  DeleteObjects: 12.167044 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  6.589 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 2 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  8.748 seconds
+Domain Reload Profiling: 15331ms
+	BeginReloadAssembly (1454ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (122ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (530ms)
+	RebuildCommonClasses (655ms)
+	RebuildNativeTypeToScriptingClass (141ms)
+	initialDomainReloadingComplete (264ms)
+	LoadAllAssembliesAndSetupDomain (4067ms)
+		LoadAssemblies (2522ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1949ms)
+			TypeCache.Refresh (154ms)
+				TypeCache.ScanAssembly (7ms)
+			BuildScriptInfoCaches (1684ms)
+			ResolveRequiredComponents (84ms)
+	FinalizeReload (8750ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (6853ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (360ms)
+			SetLoadedEditorAssemblies (83ms)
+			BeforeProcessingInitializeOnLoad (1791ms)
+			ProcessInitializeOnLoadAttributes (4161ms)
+			ProcessInitializeOnLoadMethodAttributes (452ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (84ms)
+Refreshing native plugins compatible for Editor in 3.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5991 unused Assets / (2.6 MB). Loaded Objects now: 6841.
+Memory consumption went from 249.9 MB to 247.4 MB.
+Total: 39.763889 ms (FindLiveObjects: 1.498378 ms CreateObjectMapping: 3.123906 ms MarkObjects: 25.907664 ms  DeleteObjects: 9.230952 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (1.8 MB). Loaded Objects now: 6841.
+Memory consumption went from 236.1 MB to 234.3 MB.
+Total: 36.382634 ms (FindLiveObjects: 0.696810 ms CreateObjectMapping: 0.717270 ms MarkObjects: 33.922314 ms  DeleteObjects: 1.043583 ms)
+
+Prepare: number of updated asset objects reloaded= 162
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (1.8 MB). Loaded Objects now: 6841.
+Memory consumption went from 235.8 MB to 234.0 MB.
+Total: 16.401449 ms (FindLiveObjects: 0.625562 ms CreateObjectMapping: 0.585023 ms MarkObjects: 14.309092 ms  DeleteObjects: 0.879215 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 16.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (2.3 MB). Loaded Objects now: 6841.
+Memory consumption went from 237.1 MB to 234.9 MB.
+Total: 32.604693 ms (FindLiveObjects: 0.988086 ms CreateObjectMapping: 1.114949 ms MarkObjects: 29.003480 ms  DeleteObjects: 1.495567 ms)
+
+WARNING: RGBA Compressed ASTC6X6 sRGB format is not supported, decompressing texture
+WARNING: RGBA Compressed ASTC6X6 UNorm format is not supported, decompressing texture
+Prepare: number of updated asset objects reloaded= 162
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (2.3 MB). Loaded Objects now: 6841.
+Memory consumption went from 236.9 MB to 234.6 MB.
+Total: 25.838592 ms (FindLiveObjects: 0.632304 ms CreateObjectMapping: 0.680235 ms MarkObjects: 22.863287 ms  DeleteObjects: 1.660345 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.172 seconds
+Refreshing native plugins compatible for Editor in 2.06 ms, found 2 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.134 seconds
+Domain Reload Profiling: 8315ms
+	BeginReloadAssembly (880ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (40ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (350ms)
+	RebuildCommonClasses (159ms)
+	RebuildNativeTypeToScriptingClass (52ms)
+	initialDomainReloadingComplete (90ms)
+	LoadAllAssembliesAndSetupDomain (1998ms)
+		LoadAssemblies (1299ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1046ms)
+			TypeCache.Refresh (32ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (942ms)
+			ResolveRequiredComponents (55ms)
+	FinalizeReload (5136ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3033ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (278ms)
+			SetLoadedEditorAssemblies (41ms)
+			BeforeProcessingInitializeOnLoad (477ms)
+			ProcessInitializeOnLoadAttributes (2021ms)
+			ProcessInitializeOnLoadMethodAttributes (213ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (45ms)
+Refreshing native plugins compatible for Editor in 1.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5991 unused Assets / (6.3 MB). Loaded Objects now: 6843.
+Memory consumption went from 249.5 MB to 243.2 MB.
+Total: 38.931446 ms (FindLiveObjects: 1.257506 ms CreateObjectMapping: 2.682644 ms MarkObjects: 16.447490 ms  DeleteObjects: 18.541493 ms)
+
+Prepare: number of updated asset objects reloaded= 0
