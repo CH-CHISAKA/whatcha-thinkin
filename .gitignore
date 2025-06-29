@@ -1,2 +1,67 @@
 Library/
 Packages/PackageCache/
+# This .gitignore is for Unity projects
+
+# Ignore the Library folder (Unity cache, rebuilds on launch)
+Library/
+
+# Ignore the Temp folder (temporary files)
+Temp/
+
+# Ignore the Obj folder (intermediate object files)
+Obj/
+
+# Ignore Unity generated logs
+Logs/
+
+# Ignore user-specific settings
+UserSettings/
+
+# Ignore build output folders
+Build/
+Builds/
+
+# Ignore Unity crash reports
+CrashReports/
+
+# Ignore visual studio / Rider / JetBrains files
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Git LFS attributes file if not used
+.gitattributes
+
+# Ignore packages cache
+Packages/packages-lock.json
+
+# Ignore Unity cache server folders
+Cache/
+
+# Ignore any backup scene files
+*.backup
+
+# Ignore auto-generated project files by Unity
+ExportedObj/
+
+# Ignore crash and debug reports
+*.stacktrace
+
+# Ignore large generated asset files (optional, depends on your project)
+*.fbx
+*.unitypackage
+
+
