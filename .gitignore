@@ -64,4 +64,11 @@ ExportedObj/
 *.fbx
 *.unitypackage
 
+# Unity Library
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
 
