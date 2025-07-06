@@ -1,31 +1,30 @@
 ﻿<Properties StartupConfiguration="{33960AED-0031-E31E-80DD-0571C83178F4}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Question/Mono/AnswerButton.cs">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="665ae37c-ba90-4797-a2f0-c2232bb9fd6d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoadingSceneScripts/LoadingScreenManager.cs">
     <Files>
       <File FileName="Assets/ButtonSFX.cs" Line="1" Column="1" IsPinned="True" />
-      <File FileName="Assets/Scripts/LoadingSceneScripts/LoadingScreenManager.cs" />
-      <File FileName="Assets/Scripts/LoadingSceneScripts/LoadingTextAnimator.cs" />
+      <File FileName="Assets/Scripts/LoadingSceneScripts/LoadingScreenManager.cs" Line="93" Column="72" />
+      <File FileName="Assets/Scripts/LoadingSceneScripts/LoadingTextAnimator.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/ManMenuScripts/GameButtonScripts/InstructionsPulse.cs" />
       <File FileName="Assets/Scripts/ManMenuScripts/GameButtonScripts/ShuffleButtonHandler.cs" />
       <File FileName="Assets/Scripts/ManMenuScripts/GameButtonScripts/CategorySelector.cs" />
       <File FileName="Assets/AudioManager.cs" />
       <File FileName="Assets/Scripts/ManMenuScripts/GameButtonScripts/UIButtonFeedback.cs" />
       <File FileName="Assets/Scripts/ManMenuScripts/GameButtonScripts/ButtonTapEffect.cs" />
-      <File FileName="Assets/Scripts/GameManager.cs" />
-      <File FileName="Assets/Scripts/Question/ScriptableObject/QuestionData.cs" Line="4" Column="1" />
       <File FileName="Assets/Scripts/Question/Mono/AnswerButton.cs" Line="149" Column="1" />
-      <File FileName="Assets/Scripts/Question/Mono/QuestionSetup.cs" Line="276" Column="1" />
-      <File FileName="Assets/Scripts/Question/Mono/AnswersData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Question/ScriptableObject/QuestionData.cs" Line="10" Column="91" />
+      <File FileName="Assets/Scripts/Question/Mono/QuestionSetup.cs" Line="82" Column="95" />
+      <File FileName="Assets/Scripts/Question/ScriptableObject/Questions.cs" Line="36" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Whatcha Thinkin">
+          <Node name="Whatcha Thinkin" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
                 <Node name="LoadingSceneScripts" expanded="True" />
@@ -34,6 +33,7 @@
                 </Node>
                 <Node name="Question" expanded="True">
                   <Node name="Mono" expanded="True" />
+                  <Node name="Resources" expanded="True" />
                   <Node name="ScriptableObject" expanded="True" />
                 </Node>
               </Node>
@@ -46,5 +46,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="332dd3ed-1b0f-46a0-82a5-7c7a4ecef377" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

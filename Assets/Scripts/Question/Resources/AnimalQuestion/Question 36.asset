@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4768068e6937441699c0b7ed3d60497, type: 3}
   m_Name: Question 36
   m_EditorClassIdentifier: 
-  question: 
-  category: 
-  answers: []
+  question: Do elephants mourn their dead?
+  category: Animals
+  answers:
+  - Yes
+  - No
+  - Maybe
+  - Sometimes
   correctAnswerIndex: 0
