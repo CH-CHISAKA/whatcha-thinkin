@@ -33,7 +33,7 @@ public class Question : ScriptableObject
     [SerializeField] private bool _useTimer = true;       // Whether to use a timer
     public bool UseTimer => _useTimer;
 
-    [SerializeField] private int _timer = 5;              // Timer duration in seconds
+    [SerializeField] private int _timer = 7;              // Timer duration in seconds
     public int Timer => _timer;
 
     [SerializeField] private AnswerType _answerType = AnswerType.Single;  // Always Single

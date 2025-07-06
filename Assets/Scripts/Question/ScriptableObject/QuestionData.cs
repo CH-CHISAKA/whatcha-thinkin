@@ -7,7 +7,7 @@ using UnityEngine; // Import the UnityEngine namespace which contains core Unity
 // - fileName specifies the default file name when creating a new asset.
 // - menuName defines the path where this asset option will appear in the Create menu.
 // - order sets the position in the Create menu (lower means higher up).
-[CreateAssetMenu(fileName = "Question", menuName = "ScriptableObjects/Question", order = 1)]
+[CreateAssetMenu(fileName = "AnimalQuestion", menuName = "ScriptableObjects/AnimalQuestion", order = 1)]
 public class QuestionData : ScriptableObject
 {
     // The actual question text that will be shown to the player.

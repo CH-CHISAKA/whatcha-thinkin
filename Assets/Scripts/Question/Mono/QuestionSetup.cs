@@ -79,7 +79,7 @@ public class QuestionSetup : MonoBehaviour
     {
         if (questions == null || questions.Count == 0)
         {
-            questions = new List<QuestionData>(Resources.LoadAll<QuestionData>("Questions"));
+            questions = new List<QuestionData>(Resources.LoadAll<QuestionData>("AnimalQuestion"));
         }
     }
 
