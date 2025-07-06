@@ -9,7 +9,8 @@ public class ButtonSFX : MonoBehaviour
     void Start()
     {
         button = GetComponent<Button>();
-        audioManager = FindObjectOfType<AudioManager>();
+        audioManager = FindFirstObjectByType<AudioManager>();
+
 
         // Play selection sound
         //audioManager?.PlaySFX(audioManager.buttonPress);

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a1c2429551f6aa4b8125314dffeb7d7, type: 3}
+  m_Name: Test 19
+  m_EditorClassIdentifier: 
+  _info: Is BTS a music group from Korea?
+  _answers:
+  - _option: 0
+    _info: 
+  - _option: 0
+    _info: 
+  - _option: 0
+    _info: 
+  - _option: 0
+    _info: 
+  _correctOption: 0
+  _useTimer: 0
+  _timer: 0
+  _addScore: 10
