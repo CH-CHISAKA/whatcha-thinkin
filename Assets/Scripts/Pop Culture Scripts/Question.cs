@@ -47,7 +47,7 @@ public class Question : ScriptableObject
     public int Timer => _timer;
 
     [Header("Score Settings")]
-    [SerializeField] private int _addScore = 10;
+    [SerializeField] private int _addScore = 50;
     public int AddScore => _addScore;
 
     /// <summary>

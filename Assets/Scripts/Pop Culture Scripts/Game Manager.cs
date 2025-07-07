@@ -14,10 +14,9 @@ public class GameManager : MonoBehaviour
     private int currentQuestion = 0;
 
     private AnswerOption pickedOption;
-    private bool questionAnswered = false; // Flag to block multiple presses
+    private bool questionAnswered = false;
 
-
-    [SerializeField] private int totalQuizTime = 15; // Total quiz time in seconds
+    [SerializeField] private int totalQuizTime = 60; // Total quiz time in seconds
     private float quizTimeLeft;
     private bool quizActive = false;
 
@@ -77,7 +76,9 @@ public class GameManager : MonoBehaviour
         bool isCorrect = Questions[currentQuestion].IsCorrect(pickedOption);
         FinishedQuestions.Add(currentQuestion);
 
-        UpdateScore(isCorrect ? Questions[currentQuestion].AddScore : -Questions[currentQuestion].AddScore);
+        // Correct = +50, Incorrect = -25
+        UpdateScore(isCorrect ? 50 : -25);
+
 
         if (!IsFinished && quizActive)
         {
