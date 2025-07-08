@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Is Mario the game character, a dancer?
   _answers:
-  - _option: 1
+  - _option: 0
     _info: 
   - _option: 1
     _info: 
-  - _option: 1
+  - _option: 3
     _info: 
-  - _option: 1
+  - _option: 2
     _info: 
   _correctOption: 1
   _useTimer: 0

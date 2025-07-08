@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Do all celebrities like pizza?
   _answers:
-  - _option: 3
+  - _option: 0
     _info: 
-  - _option: 3
+  - _option: 1
     _info: 
-  - _option: 3
+  - _option: 2
     _info: 
   - _option: 3
     _info: 

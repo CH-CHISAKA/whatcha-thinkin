@@ -16,11 +16,11 @@ MonoBehaviour:
   _answers:
   - _option: 0
     _info: 
-  - _option: 0
+  - _option: 1
     _info: 
-  - _option: 0
+  - _option: 2
     _info: 
-  - _option: 0
+  - _option: 3
     _info: 
   _correctOption: 0
   _useTimer: 0

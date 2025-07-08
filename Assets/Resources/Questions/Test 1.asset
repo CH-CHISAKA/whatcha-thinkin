@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Is Ariana Grande a basketball player?
   _answers:
+  - _option: 0
+    _info: Yes
   - _option: 1
-    _info: 
-  - _option: 1
-    _info: 
-  - _option: 1
-    _info: 
-  - _option: 1
-    _info: 
+    _info: No
+  - _option: 3
+    _info: Maybe
+  - _option: 2
+    _info: Maybe
   _correctOption: 1
   _useTimer: 0
   _timer: 0

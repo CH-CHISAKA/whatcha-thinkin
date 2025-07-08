@@ -16,7 +16,7 @@ public class GameManager : MonoBehaviour
     private AnswerOption pickedOption;
     private bool questionAnswered = false;
 
-    [SerializeField] private int totalQuizTime = 60; // Total quiz time in seconds
+    [SerializeField] private int totalQuizTime = 60; // Total quiz time
     private float quizTimeLeft;
     private bool quizActive = false;
 
@@ -78,7 +78,6 @@ public class GameManager : MonoBehaviour
 
         // Correct = +50, Incorrect = -25
         UpdateScore(isCorrect ? 50 : -25);
-
 
         if (!IsFinished && quizActive)
         {

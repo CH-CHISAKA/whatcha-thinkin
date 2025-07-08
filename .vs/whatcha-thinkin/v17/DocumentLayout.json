@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pop Culture Scripts\\Game Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pop Culture Scripts\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Question\\ScriptableObject\\QuestionData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Question\\ScriptableObject\\QuestionData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\TMP\\TMP_FontAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\TMP\\TMP_FontAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\AnimalScripts\\PauseButtonManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AnimalScripts\\PauseButtonManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pop Culture Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\GameEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pop Culture Scripts\\GameEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pop Culture Scripts\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\ManMenuScripts\\GameButtonScripts\\ButtonTapEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +42,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TMP_FontAsset.cs",
+              "DocumentMoniker": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\TMP\\TMP_FontAsset.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\TMP\\TMP_FontAsset.cs",
+              "ToolTip": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\TMP\\TMP_FontAsset.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@f3fac7af1578\\Runtime\\TMP\\TMP_FontAsset.cs",
+              "ViewState": "AgIAAOcOAAAAAAAAAAAAAPAOAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:06:10.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\AnimalScripts\\PauseButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimalScripts\\PauseButtonManager.cs",
+              "ToolTip": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\AnimalScripts\\PauseButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimalScripts\\PauseButtonManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAhwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:11:45.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionData.cs",
+              "DocumentMoniker": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Question\\ScriptableObject\\QuestionData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Question\\ScriptableObject\\QuestionData.cs",
+              "ToolTip": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Question\\ScriptableObject\\QuestionData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Question\\ScriptableObject\\QuestionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:10:12.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Question.cs",
               "DocumentMoniker": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\Question.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pop Culture Scripts\\Question.cs",
               "ToolTip": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\Question.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pop Culture Scripts\\Question.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T19:39:07.228Z",
               "EditorCaption": ""
@@ -53,14 +104,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pop Culture Scripts\\Game Manager.cs",
               "ToolTip": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\Game Manager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pop Culture Scripts\\Game Manager.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T17:14:35.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GameEvents.cs",
               "DocumentMoniker": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\GameEvents.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pop Culture Scripts\\GameEvents.cs",
@@ -68,12 +119,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Pop Culture Scripts\\GameEvents.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T16:38:43.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T16:38:43.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\Pop Culture Scripts\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pop Culture Scripts\\UIManager.cs",
@@ -81,12 +131,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Pop Culture Scripts\\UIManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T16:43:50.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T16:43:50.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ButtonTapEffect.cs",
               "DocumentMoniker": "C:\\Users\\Daniella Mutai\\whatcha-thinkin\\Assets\\Scripts\\ManMenuScripts\\GameButtonScripts\\ButtonTapEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ManMenuScripts\\GameButtonScripts\\ButtonTapEffect.cs",
@@ -94,8 +143,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ManMenuScripts\\GameButtonScripts\\ButtonTapEffect.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T19:57:52.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T19:57:52.948Z"
             }
           ]
         }

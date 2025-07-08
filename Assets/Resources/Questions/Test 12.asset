@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _info: Do people sometimes dress up as superheroes?
   _answers:
-  - _option: 2
+  - _option: 0
+    _info: 
+  - _option: 1
     _info: 
   - _option: 2
     _info: 
-  - _option: 2
-    _info: 
-  - _option: 2
+  - _option: 3
     _info: 
   _correctOption: 2
   _useTimer: 0

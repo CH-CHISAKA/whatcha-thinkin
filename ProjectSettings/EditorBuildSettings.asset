@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AnimalScene.unity
     guid: 036529212c2e341feb11c48759c50c88
+  - enabled: 1
+    path: Assets/Scenes/PopCultureScene.unity
+    guid: 62bf3ea866595fc43a6b123ec8b42ee7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
